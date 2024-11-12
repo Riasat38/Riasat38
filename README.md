@@ -19,11 +19,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riasat38&" alt="riasat38" /></p>
 
 
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
