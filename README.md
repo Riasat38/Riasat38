@@ -14,9 +14,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riasat38&show_icons=true&locale=en&layout=compact" alt="riasat38" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riasat38&show_icons=true&locale=en" alt="riasat38" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riasat38&" alt="riasat38" /></p>
+
+
 
 
 
