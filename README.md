@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Riasat</h1>
 <h3 align="center">Undergrad student in BRAC University</h3>
-
-- 🌱 I’m currently learning **go and api development**
-
+- Interested in Blockchain. Looking for opportunities to work or research in this field
+- Currently Busy with thesis work that involves sybil attack and federated learning
+Target in next few months -
+- Learn fasapi
+- develop a dapp
+- learn docker and scripting
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed riasat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed riasat" height="30" width="40" /></a>
