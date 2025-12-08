@@ -52,3 +52,6 @@
       <img src="https://cdn.simpleicons.org/ethereum/3C3C3F" alt="ethereum" width="40" height="40" />
     </picture>
   </a>
+  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasat38&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
