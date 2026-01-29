@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on my Undergrad **Thesis : Sybil resilient FL framework**
 
-- 🌱 I'm currently learning **Kotlin, Jetpack Compose, Deep Learning**
+- 🌱 I'm currently learning **Ai systems development**
 
 - 👯 I'm looking to collaborate on **Deep learning and NLP projects**
 
