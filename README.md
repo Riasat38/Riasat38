@@ -1,10 +1,9 @@
 # Hi 👋, I'm Ahmed Riasat
 
-- 🔭 I'm currently working on my Undergrad **Thesis : Sybil resilient FL framework**
 
-- 🌱 I'm currently learning **Ai systems development**
+- 🌱 I'm currently learning **Data Analytics**
 
-- 👯 I'm looking to collaborate on **Deep learning and NLP projects**
+- 👯 I'm looking to collaborate on **ML and NLP projects**
 
 - ⚡ Fun fact **I play sports**
 
